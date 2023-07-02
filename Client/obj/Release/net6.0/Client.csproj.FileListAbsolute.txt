@@ -1,0 +1,17 @@
+C:\Users\МЫ\source\repos\FitnessHelper\Client\bin\Release\net6.0\Client.exe
+C:\Users\МЫ\source\repos\FitnessHelper\Client\bin\Release\net6.0\Client.deps.json
+C:\Users\МЫ\source\repos\FitnessHelper\Client\bin\Release\net6.0\Client.runtimeconfig.json
+C:\Users\МЫ\source\repos\FitnessHelper\Client\bin\Release\net6.0\Client.dll
+C:\Users\МЫ\source\repos\FitnessHelper\Client\bin\Release\net6.0\Client.pdb
+C:\Users\МЫ\source\repos\FitnessHelper\Client\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\МЫ\source\repos\FitnessHelper\Client\obj\Release\net6.0\Client.csproj.AssemblyReference.cache
+C:\Users\МЫ\source\repos\FitnessHelper\Client\obj\Release\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\МЫ\source\repos\FitnessHelper\Client\obj\Release\net6.0\Client.AssemblyInfoInputs.cache
+C:\Users\МЫ\source\repos\FitnessHelper\Client\obj\Release\net6.0\Client.AssemblyInfo.cs
+C:\Users\МЫ\source\repos\FitnessHelper\Client\obj\Release\net6.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\МЫ\source\repos\FitnessHelper\Client\obj\Release\net6.0\Client.csproj.CopyComplete
+C:\Users\МЫ\source\repos\FitnessHelper\Client\obj\Release\net6.0\Client.dll
+C:\Users\МЫ\source\repos\FitnessHelper\Client\obj\Release\net6.0\refint\Client.dll
+C:\Users\МЫ\source\repos\FitnessHelper\Client\obj\Release\net6.0\Client.pdb
+C:\Users\МЫ\source\repos\FitnessHelper\Client\obj\Release\net6.0\Client.genruntimeconfig.cache
+C:\Users\МЫ\source\repos\FitnessHelper\Client\obj\Release\net6.0\ref\Client.dll

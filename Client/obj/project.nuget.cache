@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Qq3ubcMwXI7fTJPGPkcbr5D9t7UjANUtkE8MKGuInR8dQulLpdTmLTFBuT8XbZ8VIbO0f7NLXInBoYy5mfBmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\МЫ\\source\\repos\\FitnessHelper\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\МЫ\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
